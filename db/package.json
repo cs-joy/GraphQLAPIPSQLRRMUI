@@ -34,7 +34,7 @@
     "chalk": "^4.1.2",
     "cross-spawn": "^7.0.3",
     "envars": "^0.4.0",
-    "knex": "^1.0.3",
+    "knex": "^2.4.0",
     "knex-types": "^0.3.2",
     "lodash": "^4.17.21",
     "minimist": "^1.2.5",
