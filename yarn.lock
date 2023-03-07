@@ -4459,7 +4459,7 @@ __metadata:
     knex: ^1.0.3
     knex-types: ^0.3.2
     lodash: ^4.17.21
-    minimist: ^1.2.5
+    minimist: ^1.2.6
     nanoid: ^3.3.1
     pg: ^8.7.3
     prettier: ^2.5.1
@@ -4519,7 +4519,7 @@ __metadata:
     husky: ^7.0.4
     inquirer: ^8.2.1
     jest: ^27.5.1
-    minimist: ^1.2.5
+    minimist: ^1.2.6
     prettier: ^2.5.1
     react: ^17.0.2
     typescript: ^4.6.2
@@ -5979,7 +5979,7 @@ __metadata:
     knex: ^1.0.3
     knex-types: ^0.3.2
     lodash: ^4.17.21
-    minimist: ^1.2.5
+    minimist: ^1.2.6
     nanoid: ^3.3.1
     ora: ^5.4.1
     pg: ^8.7.3
@@ -10380,6 +10380,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"minimist@npm:^1.2.6":
+  version: 1.2.8
+  resolution: "minimist@npm:1.2.8"
+  checksum: 75a6d645fb122dad29c06a7597bddea977258957ed88d7a6df59b5cd3fe4a527e253e9bbf2e783e4b73657f9098b96a5fe96ab8a113655d4109108577ecf85b0
+  languageName: node
+  linkType: hard
+
 "minipass-collect@npm:^1.0.2":
   version: 1.0.2
   resolution: "minipass-collect@npm:1.0.2"
@@ -12275,7 +12282,7 @@ __metadata:
     globby: ^13.1.1
     got: ^12.0.1
     make-dir: ^3.1.0
-    minimist: ^1.2.5
+    minimist: ^1.2.6
     web: "workspace:*"
     zx: ^4.3.0
   languageName: unknown
